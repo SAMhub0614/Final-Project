@@ -165,4 +165,3 @@ resetButton.addEventListener("click", () => {
     setupGame(currentDifficulty); // Reset with current difficulty
 });
 
-
